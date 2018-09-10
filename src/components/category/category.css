@@ -1,0 +1,42 @@
+.title {
+	font-weight:bold;
+	font-size:30px;
+}
+
+.categoty-list{
+	font-size:18px;
+	font-weight:bold;
+	
+}
+
+.categoty-list a {
+	color:black !important;
+}
+
+.category-search{
+	margin: auto;
+	width: 61%;
+}
+
+.category-count{
+	
+}
+
+.category-name{
+	padding-left:20px;
+}
+
+.m-t-50{
+	margin-top:50px;
+}
+
+.m-t-30{
+	margin-top:30px;
+}
+
+ @media screen and (max-width: 1200px) {
+	.category-search{
+		width: 270px;
+		min-width: 270px;
+	}
+ }
